@@ -106,7 +106,22 @@ streamlit run app.py
 
 ## Prints da aplicação
 
-Os prints da aplicação serão adicionados após a finalização da interface.
+### Tela de cadastro
+
+![Tela de cadastro](docs/prints/cadastro.png)
+
+### Geração do PDI com IA
+
+![Geração do PDI](docs/prints/gerar-pdi.png)
+
+### Resultado gerado pela IA
+
+![Resultado da IA](docs/prints/resultado-ia.png)
+![Resultado da IA](docs/prints/download.png)
+
+### Histórico de PDIs gerados
+
+![Histórico](docs/prints/historico.png)
 
 ## Principais desafios encontrados
 
